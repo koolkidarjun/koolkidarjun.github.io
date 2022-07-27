@@ -1,0 +1,12 @@
+* {
+    font-family: "Manrope", Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+}
